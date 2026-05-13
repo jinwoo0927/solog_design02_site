@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 350" role="img" aria-labelledby="title">
+  <title id="title">은혜의빛교회</title>
+  <defs>
+    <linearGradient id="navyGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b63ce"/>
+      <stop offset="1" stop-color="#073b73"/>
+    </linearGradient>
+    <linearGradient id="lightGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c9def4"/>
+      <stop offset="1" stop-color="#6fa6d8"/>
+    </linearGradient>
+  </defs>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M205 54v220" stroke="url(#navyGradient)" stroke-width="20"/>
+    <path d="M128 146h154" stroke="url(#navyGradient)" stroke-width="20"/>
+    <path d="M92 285c55-28 172-30 226 0" stroke="url(#lightGradient)" stroke-width="12"/>
+
+    <path d="M205 18v70" stroke="#74a7d5" stroke-width="9"/>
+    <path d="M129 58l36 63" stroke="#88b5dc" stroke-width="9"/>
+    <path d="M76 110l62 36" stroke="#88b5dc" stroke-width="9"/>
+    <path d="M53 176h72" stroke="#88b5dc" stroke-width="9"/>
+    <path d="M76 242l62-36" stroke="#88b5dc" stroke-width="9"/>
+    <path d="M281 58l-36 63" stroke="#88b5dc" stroke-width="9"/>
+    <path d="M334 110l-62 36" stroke="#88b5dc" stroke-width="9"/>
+    <path d="M357 176h-72" stroke="#88b5dc" stroke-width="9"/>
+    <path d="M334 242l-62-36" stroke="#88b5dc" stroke-width="9"/>
+    <path d="M165 70l18 62" stroke="#88b5dc" stroke-width="8"/>
+    <path d="M245 70l-18 62" stroke="#88b5dc" stroke-width="8"/>
+  </g>
+
+  <text x="408" y="221"
+        fill="#073b73"
+        font-family="Pretendard, Noto Sans KR, Apple SD Gothic Neo, Arial, sans-serif"
+        font-size="112"
+        font-weight="900"
+        letter-spacing="-3">은혜의빛</text>
+
+  <g transform="translate(874 96)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M38 0v116" stroke="url(#navyGradient)" stroke-width="15"/>
+    <path d="M0 42h76" stroke="url(#navyGradient)" stroke-width="15"/>
+    <path d="M19 142c12-9 27-13 45-13 18 0 33 4 45 13" stroke="url(#lightGradient)" stroke-width="8"/>
+    <path d="M38 -22v16" stroke="#8fb9df" stroke-width="7"/>
+    <path d="M-20 26l16 10" stroke="#8fb9df" stroke-width="7"/>
+    <path d="M96 26l-16 10" stroke="#8fb9df" stroke-width="7"/>
+  </g>
+
+  <text x="982" y="221"
+        fill="#073b73"
+        font-family="Pretendard, Noto Sans KR, Apple SD Gothic Neo, Arial, sans-serif"
+        font-size="112"
+        font-weight="900"
+        letter-spacing="-3">교회</text>
+</svg>

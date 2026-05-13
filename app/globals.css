@@ -1717,9 +1717,7 @@ section.container,
 .footer .logo {
   width: 214px;
   min-width: 214px;
-  padding: 7px 10px;
-  border-radius: 8px;
-  background: #fff;
+  filter: brightness(0) invert(1);
 }
 
 .footer-grid {

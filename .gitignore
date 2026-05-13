@@ -13,3 +13,5 @@ pnpm-debug.log*
 
 *.tsbuildinfo
 Thumbs.db
+
+.vercel
